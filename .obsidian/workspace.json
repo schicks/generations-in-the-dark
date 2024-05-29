@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "40f3921eab4db762",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1b85c7112de6e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20fcabe46bb7e84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Downtime/Downtime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58c936302645f089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Score/The Score.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84001830f9f9c4e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea684afd7f16809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f737c6b0ddd994c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd3a006b9c6903b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nbsp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eeb178789341a132",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d14a732042622b2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7605e77ac88fc335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a6671e248ef62ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Score/The Score.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d882b3c52f3edb7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Score/The Score.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7709adfb9bc97f61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43b5aaee2e4b9f47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Score/The Score.md"
+              }
+            }
+          },
+          {
+            "id": "9618460171fb105e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab4f3d22f40ef8ea",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "34672b2709b407a4",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "58c936302645f089",
+  "lastOpenFiles": [
+    "Downtime/Downtime.md",
+    "Score/The Score.md",
+    "Characters/The Characters.md",
+    "Basics/The Basics.md",
+    "Basics/Resistance and Armor.md",
+    "Score/Planning & engagement.md",
+    "Downtime/Heat.md",
+    "Basics/Fortune Roll.md",
+    "Downtime/Downtime activities.md",
+    "Downtime/Crafting.md",
+    "Basics/Consequences and Harm.md",
+    "Basics/Action Roll.md",
+    "Table of Contents.md",
+    "Downtime/Rituals.md",
+    "Downtime/Magnitude.md",
+    "Downtime/Entanglements.md",
+    "Downtime/Payoff.md",
+    "Basics/Gathering Information.md",
+    "Downtime",
+    "Untitled.md",
+    "Score/Teamwork.md",
+    "README.md",
+    "Score",
+    "Crew/The Crew.md",
+    "Crew/Crew playbook.md",
+    "Crew/Crew creation.md",
+    "Crew",
+    "Characters/Character creation.md",
+    "Characters/Character playbook.md",
+    "Characters",
+    "Templates",
+    "Basics"
+  ]
+}
