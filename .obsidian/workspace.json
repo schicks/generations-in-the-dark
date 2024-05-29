@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Downtime/Downtime.md",
+                "file": "Rules/05 Downtime/01 Downtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Score/The Score.md",
+                "file": "Rules/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Score/The Score.md",
+                "file": "Rules/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Score/The Score.md",
+                "file": "Rules/Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Score/The Score.md"
+                "file": "Rules/Table of Contents.md"
               }
             }
           },
@@ -166,9 +165,17 @@
               "type": "PROGRESS_CLOCKS_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "31d8b08593030759",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -187,37 +194,38 @@
   },
   "active": "58c936302645f089",
   "lastOpenFiles": [
-    "Downtime/Downtime.md",
-    "Score/The Score.md",
-    "Characters/The Characters.md",
-    "Basics/The Basics.md",
-    "Basics/Resistance and Armor.md",
-    "Score/Planning & engagement.md",
-    "Downtime/Heat.md",
-    "Basics/Fortune Roll.md",
-    "Downtime/Downtime activities.md",
-    "Downtime/Crafting.md",
-    "Basics/Consequences and Harm.md",
-    "Basics/Action Roll.md",
-    "Table of Contents.md",
-    "Downtime/Rituals.md",
-    "Downtime/Magnitude.md",
-    "Downtime/Entanglements.md",
-    "Downtime/Payoff.md",
-    "Basics/Gathering Information.md",
-    "Downtime",
-    "Untitled.md",
-    "Score/Teamwork.md",
-    "README.md",
-    "Score",
-    "Crew/The Crew.md",
-    "Crew/Crew playbook.md",
-    "Crew/Crew creation.md",
-    "Crew",
-    "Characters/Character creation.md",
-    "Characters/Character playbook.md",
-    "Characters",
+    "Rules/05 Downtime/08 Crafting.md",
+    "Rules/05 Downtime/07 Rituals.md",
+    "Rules/05 Downtime/06 Magnitude.md",
+    "Rules/05 Downtime/05 Downtime activities.md",
+    "Rules/05 Downtime/04 Entanglements.md",
+    "Rules/05 Downtime/03 Heat.md",
+    "Rules/05 Downtime/02 Payoff.md",
+    "Rules/05 Downtime/01 Downtime.md",
+    "Rules/04 Score/03 Teamwork.md",
+    "Rules/04 Score/02 Planning & engagement.md",
+    "Rules/03 Crew/02 Crew playbook.md",
+    "Rules/04 Score/01 The Score.md",
+    "Rules/03 Crew/01 Crew creation.md",
+    "Rules/02 Characters/03 Character playbook.md",
+    "Rules/03 Crew/The Crew.md",
+    "Rules/02 Characters/02 Character creation.md",
+    "Rules/02 Characters/01 The Characters.md",
+    "Rules/01 Basics/16 Advancement.md",
+    "Rules/01 Basics/15 The Faction Game.md",
+    "Rules/01 Basics/14 Coin and Stash.md",
+    "Rules/01 Basics/13 Gathering Information.md",
+    "Rules/01 Basics/12 Fortune Roll.md",
+    "Rules/01 Basics/11 Resistance and Armor.md",
+    "Rules/01 Basics/09 Consequences and Harm.md",
+    "Rules/01 Basics/08 Setting Position & Effect.md",
+    "Rules/01 Basics/07 Effect.md",
+    "Rules",
+    "Rules/05 Downtime",
+    "Rules/04 Score",
+    "Rules/03 Crew",
+    "Rules/02 Characters",
     "Templates",
-    "Basics"
+    "Rules/01 Basics"
   ]
 }
