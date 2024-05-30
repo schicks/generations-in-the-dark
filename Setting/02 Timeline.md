@@ -1,0 +1,10 @@
+- Back on Earth, a small, impossibly rich group obsessed with the possibility of the end of the world start the Generations program; to build a fleet of generation ships.
+- The Northern Alliance "wins" the 4th world war with a preemptive strike, turning a third of the arable land on the planet into glass and slag.
+- Suddenly pressed for time, the Generations program launches their prototype ship, [[Icarus]], well ahead of schedule.
+- [[Damaged Starship]] and [[Flawless Starship]], based on significantly more advanced designs launch nearly in tandem, flying a few hundred miles apart.
+- the Generations program is dismantled for reasons (???)
+- Two thirds through the initial burn, as the second generation of travelers is beginning to retire, all communication stops cold
+- as Icarus enters the nebula they send a brief burst of frantic communication about being attacked by [[Ghosts]], then silence. The other two ships start preparing their defenses.
+- Just as they reach the nebula the two ships managed to get the [[Polarized Hull]] systems online, at the cost of most of their computers. Only the most heavily shielded navigation systems are able to stay functional.
+- gen 3 comes of age and retires in the nebula, fighting off endless attacks by ghosts while trying to get enough hydrogen for the decel burn. (??? did they get enough?)
+- As the last of gen 3 dies, gen 4 is still under attack by the ghosts that followed them out of the nebula, and "[[Angels|angels from above]]" have drifted into range; the survivors of Icarus. One of the two ships has been horribly scarred by ghost attack, while the other is nearly intact. And the decel burn is coming, but [[Navigation]] won't tell anyone when.

@@ -1,4 +1,5 @@
-This is a base vault for building [Forged in the Dark](https://bladesinthedark.com/forged-dark) games. It has a markdown version of the SRD enriched with links. The recommended use is to fork this repo and extend it with the rules for your own game.
+This is a base vault for extending and playing **Generations in the Dark**, a Forged in the Dark game.
+
 ![forged in the dark](https://bladesinthedark.com/sites/default/files/inline-images/forged_in_the_dark_logo2_0.png)
 > Blades in the Dark™ is a trademark of One Seven Design. The Forged in the Dark Logo is © One Seven Design, and is used with permission.
 
