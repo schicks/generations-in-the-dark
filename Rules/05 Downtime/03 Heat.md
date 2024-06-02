@@ -62,7 +62,7 @@ Incarceration is dehumanizing and brutal. The renown of your crew is your only r
 
 ### CLAIMS: PRISON
 
-|       []()       |          |            |          |              |          |                    |
+|                  |          |            |          |              |          |                    |
 | :--------------: | :------: | :--------: | :------: | :----------: | :------: | :----------------: |
 | Parole Influence | &#x2015; | Smuggling  | &#x2015; | Allied Claim |          | Cell Block Control |
 |     &#x2758;     |          |  &#x2758;  |          |   &#x2758;   |          |      &#x2758;      |

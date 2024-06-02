@@ -3,7 +3,9 @@ next: "[[01 Downtime]]"
 ---
 
 
-When the team of PCs works together, the characters have access to four special **teamwork maneuvers**. They're listed at the bottom of the character playbook sheets to help remind the players of them. The four maneuvers are:
+When the team of PCs works together, the characters have access to four special **teamwork maneuvers**. They're listed at the bottom of the character playbook sheets to help remind the players of them. 
+
+### Teamwork Maneuvers
 
 * **Assist** another PC who's rolling an action.
 * Lead a **group action**.

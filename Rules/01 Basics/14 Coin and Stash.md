@@ -18,7 +18,7 @@ The few bits PCs use in their daily lives are not tracked. If a character wants 
 * **8 coin**: A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
 * **10 coin**: Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
 
-More than 4**coin** is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4 **coin** in their lair, by default. If they upgrade to a **vault**, they can expand their stores to **8** and then **16** **coin**. Any **coin** beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
+More than 4 **coin** is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4 **coin** in their lair, by default. If they upgrade to a **vault**, they can expand their stores to **8** and then **16** **coin**. Any **coin** beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
 
 One unit of **coin** in silver pieces or other bulk currency takes up one item slot for your **load** when carried.
 

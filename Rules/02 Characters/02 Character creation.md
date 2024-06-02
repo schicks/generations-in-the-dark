@@ -83,12 +83,16 @@ That's it! Your character is ready for play. When you start the first session, t
 
 ## Loadout
 
-You have access to all of the **items** on your character sheet. For each operation, decide what your character's **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
+You have access to all of the **items** on your character sheet. For each operation, decide what your character's **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness.
+
+### Loads
 
 * **1-3 load**: **Light.** *You're faster, less conspicuous; you blend in with citizens.*
 * **4/5 load**: **Normal.** *You look like a scoundrel, ready for trouble.*
 * **6 load**: **Heavy.** *You're slower. You look like an operative on a mission.*
 * **7-9 load**: **Encumbered.** *You're overburdened and can't do anything except move very slowly.*
+
+### Changing the load limit
 
 Some special abilities (like the Cutter's **Mule** ability or Assassin's Rigging) increase the load limits.
 
