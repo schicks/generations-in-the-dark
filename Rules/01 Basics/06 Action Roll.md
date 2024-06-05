@@ -5,6 +5,8 @@ When a player character does something challenging, we make an **action roll** t
 
 *Each game group will have their own ideas about what "challenging" means. This is good! It's something that establishes the tone and style of your Blades series.*
 
+## Making an action roll
+
 To make an action roll, we go through six steps. In play, they flow together somewhat, but let's break each one down here for clarity.
 
 * The player states their **goal** for the action.

@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20fcabe46bb7e84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/05 Downtime/01 Downtime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58c936302645f089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Table of Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "287b1ebc27ea3aae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Factions/Navigation.md",
+                "file": "Rules/Playbooks/Thief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3baf541134a1ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/02 Characters/03 Character playbook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nbsp",
+                "query": "quality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Factions/Navigation.md",
+                "file": "Rules/Playbooks/Thief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Factions/Navigation.md",
+                "file": "Rules/Playbooks/Thief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Factions/Navigation.md"
+                "file": "Rules/Playbooks/Thief.md"
               }
             }
           },
@@ -185,9 +172,17 @@
               "type": "BC-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "5b5ae39054a9296c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -201,46 +196,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "287b1ebc27ea3aae",
   "lastOpenFiles": [
-    "Templates/Faction.md",
-    "Setting/Factions/Navigation.md",
-    "Setting/02 Timeline.md",
-    "Setting/Factions",
-    "Templates",
-    "Setting/01 The Setting.md",
-    "README.md",
-    "LICENSE.md",
-    "Rules/Table of Contents.md",
-    "Setting",
-    "Rules/05 Downtime/08 Crafting.md",
-    "Rules/05 Downtime/07 Rituals.md",
-    "Rules/05 Downtime/06 Magnitude.md",
-    "Rules/05 Downtime/05 Downtime activities.md",
-    "Rules/05 Downtime/04 Entanglements.md",
-    "Rules/05 Downtime/03 Heat.md",
-    "Rules/05 Downtime/02 Payoff.md",
-    "Rules/05 Downtime/01 Downtime.md",
-    "Rules/04 Score/03 Teamwork.md",
-    "Rules/04 Score/02 Planning & engagement.md",
-    "Rules/03 Crew/02 Crew playbook.md",
-    "Rules/04 Score/01 The Score.md",
-    "Rules/03 Crew/01 Crew creation.md",
     "Rules/02 Characters/03 Character playbook.md",
-    "Rules/03 Crew/The Crew.md",
+    "Rules/Playbooks/Thief.md",
     "Rules/02 Characters/02 Character creation.md",
     "Rules/02 Characters/01 The Characters.md",
+    "Rules/03 Crew/01 Crew creation.md",
+    "Rules/05 Downtime/03 Heat.md",
+    "Rules/Quick Play Sheet.md",
+    "Rules/05 Downtime/Prison Claims.canvas",
+    "Rules/05 Downtime/05 Downtime activities.md",
+    "Rules/04 Score/03 Teamwork.md",
+    "Rules/01 Basics/06 Action Roll.md",
+    "Rules/04 Score/02 Planning & engagement.md",
+    "Templates/Player Character.md",
+    "Templates/Character Playbook.md",
+    "Setting/Factions/Navigation.md",
+    "Rules/01 Basics/09 Consequences and Harm.md",
+    "Rules/Playbooks",
+    "Rules/01 Basics/01 The Basics.md",
     "Rules/01 Basics/16 Advancement.md",
-    "Rules/01 Basics/15 The Faction Game.md",
+    "Rules/01 Basics/14 Coin and Stash.md",
+    "README.md",
+    "Rules/01 Basics/14 Capital and Stash.md",
+    "Setting/01 The Setting.md",
+    "Rules/01 Basics/04 Stress & Trauma.md",
+    "Rules/01 Basics/11 Resistance and Armor.md",
+    "Rules/01 Basics/03 Actions & Attributes.md",
+    "Templates/Faction.md",
+    "Setting/Factions",
+    "Templates",
+    "Setting",
     "Rules",
     "Rules/05 Downtime",
     "Rules/04 Score",
     "Rules/03 Crew",
     "Rules/02 Characters",
-    "Templates",
-    "Rules/01 Basics"
+    "Templates"
   ]
 }

@@ -8,10 +8,12 @@ But you, the players, don't have to do the nitty-gritty planning. The characters
 
 There are six different plans, each with a missing **detail** you need to provide (see the list below). To "plan an operation," simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
 
+## The Plan
+
 * Assault - Do violence to a target. *Detail: The point of attack.*
 * Deception - Lure, trick, or manipulate. *Detail: The method of deception.*
 * Stealth - Trespass unseen. *Detail: The point of infiltration.*
-* Occult - Engage a supernatural power. *Detail: The arcane method.*
+* Alien - Engage an inhuman power. *Detail: The inhuman method.*
 * Social - Negotiate, bargain, or persuade. *Detail: The social connection.*
 * Transport - Carry cargo or people through danger. *Detail: The route and means.*
 
@@ -27,20 +29,19 @@ After the plan and detail are in place, each player chooses their character's **
 
 Once the players choose a plan and provide its detail, the GM cuts to the action—describing the scene as the crew starts the operation and encounters their first obstacle. But how is this established? The way the GM describes the starting situation can have a huge impact on how simple or troublesome the operation turns out to be. Rather than expecting the GM to simply "get it right" each time, we use a dice roll instead. This is the **engagement roll**.
 
-The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. Modify the dice pool for any major advantages or disadvantages that apply.
+### Rolling for engagement
 
-### Major Advantages / Disadvantages
+The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. Modify the dice pool for any major advantages or disadvantages that apply.
 
 * Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
 * Does the **plan's detail** expose a vulnerability of the target or hit them where they're weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
 * Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
 * Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you +1d.  Maybe a higher-Tier target will give you -1d. Maybe there's a situation in the district that makes the operation more or less tricky.
+### What does engagement cover?
 
 The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don't need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang's lair; maneuvering to speak with a Lord at the masquerade party; etc.
 
 Don't make the engagement roll and then describe the PCs *approaching* the target. It's the approach that the engagement roll resolves. Cut to the action that results *because of* that initial approach—to the first serious obstacle in their path.
-
----
 
 ### ENGAGEMENT ROLL
 
