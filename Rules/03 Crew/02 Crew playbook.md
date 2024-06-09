@@ -182,4 +182,4 @@ During **downtime**, one of your **cohorts** may perform a downtime activity for
 
 ### Just passing through
 
-During **downtime**, take **-1 **heat****. When your **heat** is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
+During **downtime**, take **-1 heat**. When your **heat** is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.

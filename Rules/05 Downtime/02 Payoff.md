@@ -22,7 +22,7 @@ The crew earns **coin** based on the nature of the operation and/or any loot the
 
 Record the **coin** on the crew sheet, or divvy it up among the crew members as you see fit.
 
-Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there's a boss that you should be paying. **Subtract **coin** equal to your crew Tier +1** when you pay a tithe to a boss or larger organization. *If you're supposed to be paying off a boss, but you don't, start a clock for that boss's patience running out. Tick it whenever you don't pay. Every time it fills up, lose 1 faction status with them.*
+Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there's a boss that you should be paying. Subtract **coin** equal to your crew Tier +1 when you pay a tithe to a boss or larger organization. *If you're supposed to be paying off a boss, but you don't, start a clock for that boss's patience running out. Tick it whenever you don't pay. Every time it fills up, lose 1 faction status with them.*
 
 You can set the scene and play out a meeting with a client or patron who's paying the crew if there's something interesting to explore there. If not, just gloss over it and move on to the next part of downtime.
 

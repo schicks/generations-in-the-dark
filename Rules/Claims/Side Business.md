@@ -1,0 +1,1 @@
+During downtime, roll tier and subtract heat. Gain that much capital.

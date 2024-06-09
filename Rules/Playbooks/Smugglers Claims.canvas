@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"7c1ad691fad8b413","x":542,"y":-320,"width":298,"height":148,"type":"file","file":"Rules/Claims/Saloon.md"},
+		{"id":"e7363a54e6010a3b","type":"file","file":"Rules/Claims/Storerooms.md","x":542,"y":82,"width":298,"height":148},
+		{"id":"d1f9bc01df5f25c1","type":"file","file":"Rules/Claims/Cover Operation.md","x":199,"y":82,"width":298,"height":148},
+		{"id":"6151832ec885c49c","type":"file","file":"Rules/Claims/Secret Routes.md","x":-840,"y":82,"width":298,"height":148},
+		{"id":"e174b6d6e02e448a","type":"file","file":"Rules/Claims/Debris Field.md","x":-840,"y":-118,"width":298,"height":148},
+		{"id":"510f27edc7ae77df","type":"file","file":"Rules/Claims/Side Business.md","x":-497,"y":-320,"width":298,"height":148},
+		{"id":"e7c5d0058bd6ba8c","type":"file","file":"Rules/Claims/Informants.md","x":-497,"y":82,"width":298,"height":148},
+		{"id":"faae197ecf59ace1","type":"file","file":"Rules/Claims/Luxury Fence.md","x":-157,"y":-320,"width":309,"height":148},
+		{"id":"24be2c5c0d3b1b7c","type":"file","file":"Rules/Claims/Lair.md","x":-157,"y":-118,"width":309,"height":148,"color":"4"},
+		{"id":"5ddf767c197aafa1","type":"text","text":"# Turf","x":542,"y":-118,"width":298,"height":148},
+		{"id":"329ff372b37c6354","type":"text","text":"# Turf","x":199,"y":-118,"width":298,"height":148},
+		{"id":"8eaaa0c41f124c37","type":"text","text":"# Turf","x":-840,"y":-320,"width":298,"height":148},
+		{"id":"db977a180c2b50e1","type":"text","text":"# Turf","x":-497,"y":-118,"width":298,"height":148},
+		{"id":"b6213ddb225cb2bf","type":"file","file":"Rules/Claims/Fleet.md","x":-157,"y":82,"width":309,"height":148},
+		{"id":"303b6a14eb0b14b1","x":199,"y":-320,"width":298,"height":148,"type":"file","file":"Rules/Claims/Side Business.md"}
+	],
+	"edges":[
+		{"id":"7c71865b14c5ebdc","fromNode":"db977a180c2b50e1","fromSide":"right","toNode":"24be2c5c0d3b1b7c","toSide":"left","toEnd":"none"},
+		{"id":"aafebb73ca1ad791","fromNode":"24be2c5c0d3b1b7c","fromSide":"right","toNode":"329ff372b37c6354","toSide":"left","toEnd":"none"},
+		{"id":"00036ded07e916d9","fromNode":"24be2c5c0d3b1b7c","fromSide":"bottom","toNode":"b6213ddb225cb2bf","toSide":"top","toEnd":"none"},
+		{"id":"e91f7fb77c07ca5b","fromNode":"faae197ecf59ace1","fromSide":"bottom","toNode":"24be2c5c0d3b1b7c","toSide":"top","toEnd":"none"},
+		{"id":"88fbcbe32d438c0b","fromNode":"329ff372b37c6354","fromSide":"right","toNode":"5ddf767c197aafa1","toSide":"left","toEnd":"none"},
+		{"id":"a2f4d227b4cb72db","fromNode":"7c1ad691fad8b413","fromSide":"bottom","toNode":"5ddf767c197aafa1","toSide":"top","toEnd":"none"},
+		{"id":"b1254a3b1b8219f4","fromNode":"5ddf767c197aafa1","fromSide":"bottom","toNode":"e7363a54e6010a3b","toSide":"top","toEnd":"none"},
+		{"id":"aeae5aa1c441d6d5","fromNode":"e7363a54e6010a3b","fromSide":"left","toNode":"d1f9bc01df5f25c1","toSide":"right","toEnd":"none"},
+		{"id":"6a21d21585e1b3b9","fromNode":"db977a180c2b50e1","fromSide":"top","toNode":"510f27edc7ae77df","toSide":"bottom","toEnd":"none"},
+		{"id":"9690c2788fc1bb07","fromNode":"510f27edc7ae77df","fromSide":"left","toNode":"8eaaa0c41f124c37","toSide":"right","toEnd":"none"},
+		{"id":"2248e7e6ea5973e7","fromNode":"8eaaa0c41f124c37","fromSide":"bottom","toNode":"e174b6d6e02e448a","toSide":"top","toEnd":"none"},
+		{"id":"9c0511e3b01ba5b9","fromNode":"e174b6d6e02e448a","fromSide":"bottom","toNode":"6151832ec885c49c","toSide":"top","toEnd":"none"},
+		{"id":"4d058604609bc7dd","fromNode":"6151832ec885c49c","fromSide":"right","toNode":"e7c5d0058bd6ba8c","toSide":"left","toEnd":"none"},
+		{"id":"b9638f8de4bdb868","fromNode":"e7c5d0058bd6ba8c","fromSide":"top","toNode":"db977a180c2b50e1","toSide":"bottom","toEnd":"none"},
+		{"id":"c4360334c280b901","fromNode":"303b6a14eb0b14b1","fromSide":"bottom","toNode":"329ff372b37c6354","toSide":"top","toEnd":"none"},
+		{"id":"57d83dbd4d9e2c92","fromNode":"303b6a14eb0b14b1","fromSide":"right","toNode":"7c1ad691fad8b413","toSide":"left","toEnd":"none"}
+	]
+}

@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "287b1ebc27ea3aae",
+            "id": "20fcabe46bb7e84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Playbooks/Thief.md",
+                "file": "Templates/Crew Playbook.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3baf541134a1ff1",
+            "id": "ba10115a024513a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/02 Characters/03 Character playbook.md",
+                "file": "Rules/03 Crew/01 Crew creation.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quality",
+                "query": "cohort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Playbooks/Thief.md",
+                "file": "Templates/Crew Playbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Playbooks/Thief.md",
+                "file": "Templates/Crew Playbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Playbooks/Thief.md"
+                "file": "Templates/Crew Playbook.md"
               }
             }
           },
@@ -172,17 +173,9 @@
               "type": "BC-matrix",
               "state": {}
             }
-          },
-          {
-            "id": "5b5ae39054a9296c",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -200,43 +193,44 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "287b1ebc27ea3aae",
+  "active": "20fcabe46bb7e84d",
   "lastOpenFiles": [
-    "Rules/02 Characters/03 Character playbook.md",
-    "Rules/Playbooks/Thief.md",
-    "Rules/02 Characters/02 Character creation.md",
-    "Rules/02 Characters/01 The Characters.md",
-    "Rules/03 Crew/01 Crew creation.md",
-    "Rules/05 Downtime/03 Heat.md",
-    "Rules/Quick Play Sheet.md",
-    "Rules/05 Downtime/Prison Claims.canvas",
-    "Rules/05 Downtime/05 Downtime activities.md",
-    "Rules/04 Score/03 Teamwork.md",
-    "Rules/01 Basics/06 Action Roll.md",
-    "Rules/04 Score/02 Planning & engagement.md",
-    "Templates/Player Character.md",
-    "Templates/Character Playbook.md",
-    "Setting/Factions/Navigation.md",
-    "Rules/01 Basics/09 Consequences and Harm.md",
-    "Rules/Playbooks",
-    "Rules/01 Basics/01 The Basics.md",
+    "Rules/Playbooks/Smugglers.md",
+    "Templates/Crew Playbook.md",
     "Rules/01 Basics/16 Advancement.md",
+    "Rules/03 Crew/01 Crew creation.md",
+    "Templates/Claim Map Template.canvas",
+    "Rules/Playbooks/Smugglers Claims.canvas",
+    "Rules/Claims/Saloon.md",
+    "Rules/Claims/Storerooms.md",
+    "Rules/Claims/Cover Operation.md",
+    "Rules/Playbooks/Thief.md",
+    "Rules/05 Downtime/03 Heat.md",
+    "Rules/Claims/Secret Routes.md",
+    "Rules/Claims/Debris Field.md",
+    "Rules/Claims/Side Business.md",
+    "Rules/Claims/Informants.md",
+    "Rules/Claims/Luxury Fence.md",
+    "Rules/Claims/Fleet.md",
+    "Rules/Claims/Lair.md",
+    "Rules/Claims",
+    "Rules/03 Crew/02 Crew playbook.md",
+    "Rules/05 Downtime/05 Downtime activities.md",
+    "Setting/People",
+    "Templates/Player Character.md",
+    "Rules/01 Basics/15 The Faction Game.md",
     "Rules/01 Basics/14 Coin and Stash.md",
+    "Rules/05 Downtime/02 Payoff.md",
+    "Rules/Table of Contents.md",
+    "Rules/05 Downtime/01 Downtime.md",
     "README.md",
-    "Rules/01 Basics/14 Capital and Stash.md",
-    "Setting/01 The Setting.md",
-    "Rules/01 Basics/04 Stress & Trauma.md",
-    "Rules/01 Basics/11 Resistance and Armor.md",
-    "Rules/01 Basics/03 Actions & Attributes.md",
-    "Templates/Faction.md",
-    "Setting/Factions",
     "Templates",
+    "Setting/Factions",
+    "Rules/Playbooks",
     "Setting",
     "Rules",
     "Rules/05 Downtime",
     "Rules/04 Score",
-    "Rules/03 Crew",
-    "Rules/02 Characters",
-    "Templates"
+    "Rules/03 Crew"
   ]
 }

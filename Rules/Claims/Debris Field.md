@@ -1,0 +1,1 @@
+You can travel between ships safely.

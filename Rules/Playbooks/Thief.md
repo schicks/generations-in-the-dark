@@ -14,11 +14,11 @@ You gain XP when you roll a desperate action (in that action attribute only). At
 
 ## Connections
 
-- Frick Ficket, a fence
-- Valiant, a smuggler
-- "Hands", an [[Ship Defense Corps|SDC marine]]
-- Digger [[Ship Chreches|Starborn]], a scrapper
-- Nova Yannis, a [[BioSynth]] student
+- [[Frick Ficket]], a fence
+- [[Valiant]], a smuggler
+- "[[Hands]]", an [[Ship Defense Corps|SDC marine]]
+- [[Digger Starborn]], a scrapper
+- [[Nova Yannis]], a [[BioSynth]] student
 ## Special Abilities
 
 - **Infiltrator**: You are not affected by **quality** and **tier** when you bypass security measures
