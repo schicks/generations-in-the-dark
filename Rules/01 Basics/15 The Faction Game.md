@@ -28,10 +28,10 @@ To move up the ladder and develop your crew, you need **rep**. **Rep** is a meas
 
 When you complete a score, your crew earns **2 **rep****. If the target of the score is higher Tier than your crew, you get **+1 **rep**** per Tier higher. If the target of the score is lower Tier, you get **-1 **rep**** per Tier lower (minimum zero).
 
-You need **12 **rep**** to fill the **rep** tracker on your crew sheet. When you fill the tracker, do one of the following:
-
-* If your hold is weak, it becomes strong. **Reset your **rep** to zero**.
-* If your hold is strong, you can pay to increase your crew Tier by one. This costs **coin** equal to your **new Tier x 8**. As long as your **rep** tracker is full, you don't earn new **rep** (12 is the max). Once you pay and increase your Tier, **reset your **rep** to zero** and **reduce your hold to weak**.
+### Advancement
+You need **12 rep** to fill the **rep** tracker on your crew sheet. When your tracker is full, do one of the following:
+* If your **hold** is weak, it becomes strong. Reset your **rep** to zero.
+* If your **hold** is strong, you can pay to increase your crew Tier by one. This costs **coin** equal to your **new Tier x 8**. As long as your **rep** tracker is full, you don't earn new **rep** (12 is the max). Once you pay and increase your Tier, reset your **rep** to zero and reduce your **hold** to weak.
 
 ## Turf
 

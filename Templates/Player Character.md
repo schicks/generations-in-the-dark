@@ -53,23 +53,18 @@ Playbook XP: `clock 0/9`
 _when there are empty checkboxes below an item, it costs more than one **load**. When an item is a bullet instead of a check, it takes no load._
 
 - [ ] small weapon
-- [ ] heavy weapon
-- [ ] 
+- [ ] <input type="checkbox"/> heavy weapon
 - [ ] unusual weapon
 - [ ] disguise kit
-- [ ] demolition tools
-- [ ] 
+- [ ] <input type="checkbox"/> demolition tools
 - [ ] thieves tools
 - [ ] field manipulator
 - [ ] mutagenic supplies
-- [ ] armor
-- [ ] 
-- [ ] +heavy to armor
-- [ ] 
-- [ ] 
+- [ ] <input type="checkbox"/> armor
+- [ ] <input type="checkbox"/> <input type="checkbox"/> +heavy to armor
 - [ ] documents
 - [ ] flashlight
-- [ ] pressure suit
+- [ ] <input type="checkbox"/> pressure suit
 - [ ] 
 
 ## Playbook

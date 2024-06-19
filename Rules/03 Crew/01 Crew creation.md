@@ -102,9 +102,9 @@ A **cohort** is a **gang** or an **expert** who works for your crew. To recruit 
 
 Choose a **gang type** from the list below:
 
-* **Adepts**: Scholars, tinkerers, occultists, and chemists.
+* **Adepts**: Scholars, tinkerers, biohackers, and chemists.
 * **Rooks**: Con artists, spies, and socialites.
-* **Rovers**: Sailors, carriage drivers, and deathlands scavengers.
+* **Rovers**: Shuttle pilots, angels, and ex [[Ship Defense Corps|SDC]] marines.
 * **Skulks**: Scouts, infiltrators, and thieves.
 * **Thugs**: Killers, brawlers, and roustabouts.
 

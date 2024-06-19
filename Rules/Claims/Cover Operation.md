@@ -1,0 +1,1 @@
+-2 **heat** per score
