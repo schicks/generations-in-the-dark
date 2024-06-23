@@ -1,8 +1,8 @@
 ---
 tier: "5"
 allies:
-  - "[[BioSynth]]"
   - "[[Intership Council]]"
+  - "[[CADMUS]]"
 enemies:
   - "[[Scrappers]]"
   - "[[Ship Defense Corps]]"
