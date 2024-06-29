@@ -1,3 +1,4 @@
+#playbook/crew
 > Copy this playbook to create a playable crew, then link back to the original. Follow the directions in [[01 Crew creation]] to get started.
 
 ## Crew Stats
@@ -17,7 +18,7 @@ See the [[15 The Faction Game#Advancement|faction advancement]] rules for how to
 
 **You gain XP when...**
 - You meet one of the [[16 Advancement#Crew Advancement|generic advancement criteria]]
-- You **\<add a crew specific advancement trigger>**
+- You successfully move something to where someone else doesn't want it to be
 ## Exposure
 
 | heat        | wanted level |

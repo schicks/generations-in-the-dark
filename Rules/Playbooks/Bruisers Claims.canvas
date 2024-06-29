@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"2c64787d2a4a15d7","type":"file","file":"Hacked Cameras.md","x":-1680,"y":-93,"width":410,"height":137},
+		{"id":"81150382aa2c3f80","type":"file","file":"Rules/Claims/Culture of Fear.md","x":-742,"y":93,"width":410,"height":137},
+		{"id":"5801d11a0624f925","type":"file","file":"Rules/Claims/Black Market Connections.md","x":-742,"y":-280,"width":410,"height":137},
+		{"id":"24be2c5c0d3b1b7c","type":"file","file":"Rules/Claims/Lair.md","x":-742,"y":-93,"width":410,"height":137,"color":"4"},
+		{"id":"db977a180c2b50e1","type":"text","text":"# Turf\n","x":-1206,"y":-93,"width":410,"height":137},
+		{"id":"a08c2df98d999e3c","type":"text","text":"# Turf","x":215,"y":93,"width":410,"height":137},
+		{"id":"9474f82ece54ec36","type":"text","text":"# Turf\n","x":-1206,"y":-280,"width":410,"height":137},
+		{"id":"329ff372b37c6354","type":"text","text":"# Turf\n","x":-259,"y":-93,"width":410,"height":137},
+		{"id":"ba3ad1aea1797beb","type":"file","file":"Rules/Claims/Side Business.md","x":-1206,"y":93,"width":410,"height":137},
+		{"id":"211a5979eac78d79","type":"file","file":"Rules/Claims/Side Business.md","x":215,"y":-280,"width":410,"height":137},
+		{"id":"d6a402c551c8746c","type":"file","file":"Rules/Claims/Storerooms.md","x":215,"y":-93,"width":410,"height":137},
+		{"id":"b86f2ce39be04a59","type":"file","file":"Private Army.md","x":-259,"y":93,"width":410,"height":137},
+		{"id":"cccd03d43cbee456","type":"file","file":"Rules/Claims/Informants.md","x":-1680,"y":93,"width":410,"height":137},
+		{"id":"c1c026a258329cf3","type":"file","file":"Rules/Claims/Cover Operation.md","x":-259,"y":-280,"width":410,"height":137},
+		{"id":"70396b7f41898f3a","type":"file","file":"Gun Runners.md","x":-1680,"y":-280,"width":410,"height":137}
+	],
+	"edges":[
+		{"id":"7c71865b14c5ebdc","fromNode":"db977a180c2b50e1","fromSide":"right","toNode":"24be2c5c0d3b1b7c","toSide":"left","toEnd":"none"},
+		{"id":"aafebb73ca1ad791","fromNode":"24be2c5c0d3b1b7c","fromSide":"right","toNode":"329ff372b37c6354","toSide":"left","toEnd":"none"},
+		{"id":"00036ded07e916d9","fromNode":"24be2c5c0d3b1b7c","fromSide":"bottom","toNode":"81150382aa2c3f80","toSide":"top","toEnd":"none"},
+		{"id":"e91f7fb77c07ca5b","fromNode":"5801d11a0624f925","fromSide":"bottom","toNode":"24be2c5c0d3b1b7c","toSide":"top","toEnd":"none"},
+		{"id":"6a21d21585e1b3b9","fromNode":"db977a180c2b50e1","fromSide":"top","toNode":"9474f82ece54ec36","toSide":"bottom","toEnd":"none"},
+		{"id":"9690c2788fc1bb07","fromNode":"9474f82ece54ec36","fromSide":"left","toNode":"70396b7f41898f3a","toSide":"right","toEnd":"none"},
+		{"id":"2248e7e6ea5973e7","fromNode":"70396b7f41898f3a","fromSide":"bottom","toNode":"2c64787d2a4a15d7","toSide":"top","toEnd":"none"},
+		{"id":"180916d59c73bb20","fromNode":"81150382aa2c3f80","fromSide":"left","toNode":"ba3ad1aea1797beb","toSide":"right","toEnd":"none"},
+		{"id":"96de5217e5bc35f8","fromNode":"ba3ad1aea1797beb","fromSide":"top","toNode":"db977a180c2b50e1","toSide":"bottom","toEnd":"none"},
+		{"id":"64ef89b48748543c","fromNode":"329ff372b37c6354","fromSide":"right","toNode":"d6a402c551c8746c","toSide":"left","toEnd":"none"},
+		{"id":"8a73e808896529b2","fromNode":"b86f2ce39be04a59","fromSide":"right","toNode":"a08c2df98d999e3c","toSide":"left","toEnd":"none"},
+		{"id":"659503d9f735f1c4","fromNode":"a08c2df98d999e3c","fromSide":"top","toNode":"d6a402c551c8746c","toSide":"bottom","toEnd":"none"},
+		{"id":"00412cd4e2ee7841","fromNode":"2c64787d2a4a15d7","fromSide":"bottom","toNode":"cccd03d43cbee456","toSide":"top","toEnd":"none"},
+		{"id":"c4999fd2a7346f5a","fromNode":"cccd03d43cbee456","fromSide":"right","toNode":"ba3ad1aea1797beb","toSide":"left","toEnd":"none"},
+		{"id":"2d28e83bb456508a","fromNode":"5801d11a0624f925","fromSide":"right","toNode":"c1c026a258329cf3","toSide":"left","toEnd":"none"},
+		{"id":"0661a01605e23d64","fromNode":"329ff372b37c6354","fromSide":"top","toNode":"c1c026a258329cf3","toSide":"bottom","toEnd":"none"},
+		{"id":"9f4436897e302ee0","fromNode":"c1c026a258329cf3","fromSide":"right","toNode":"211a5979eac78d79","toSide":"left","toEnd":"none"}
+	]
+}

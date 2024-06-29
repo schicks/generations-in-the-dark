@@ -1,5 +1,3 @@
-> _**\<bold text in angle brackets>** or callout boxes with italics are directions for creating a playbook. Callout boxes without stay in the created playbook, and are directions for creating a crew._
-
 #playbook/crew
 > Copy this playbook to create a playable crew, then link back to the original. Follow the directions in [[01 Crew creation]] to get started.
 
@@ -19,25 +17,42 @@ See the [[15 The Faction Game#Advancement|faction advancement]] rules for how to
 
 **You gain XP when...**
 - You meet one of the [[16 Advancement#Crew Advancement|generic advancement criteria]]
-- You **\<add a crew specific advancement trigger>**
+- You run a successful operation using violence or coercion
 ## Exposure
 
 | heat        | wanted level |
 | ----------- | ------------ |
 | `clock 0/9` | `clock`      |
 See the [[03 Heat|heat]] rules for how you manage heat and the consequences it can have.
-## Favored Type
-> _Each crew has something they favor. A place to hunt, a thing to traffic, a way to kill. List the possibilities here._
+## Fighting Style
+- head on
+- threats, not deaths
+- sabotage
+- hit and run
 
 > Choose a favored type from this list and delete the rest.
 
 
 ## Contacts
 _All of these are people your crew has connections with. Flesh out that connection as the game goes on._
--
+- [[Russell]], an [[Ship Defense Corps|SDC]] grunt
+- [[Alice]], a parish priest
+- [[Toes]], a bookie
+- [[Red]], a canteen boss
+- [[Archie]], a doctor
+- [[Triumphant]], a gun runner
 
 ## Special Abilities
 > Check one of these off as part of crew creation. You can get the rest by filling your crew XP track. If you're not sure where to start, pick the first option.
+
+- [ ] **Dangerous**: Each PC may add +1 to **hunt**, **skirmish**, or **wreck** up to a max of +3.
+- [ ] **Bad Company**: When you fight alongside your cohorts in combat, they get +1d for **teamwork** rolls (setup and group actions). All of your cohorts get the **Thugs** type for free (if they're already Thugs, add another type)
+- [ ] **No Messing About**: When you execute an **assault** plan, take +1d to engagement.
+- [ ] **Enemy of the People**: Count wanted levels as **turf**.
+- [ ] **Hard as Vacuum**:  Each PC gets +1d to **resistance** rolls.
+- [ ] **Patron**: When you advance your Tier, it costs half the coin it normally would. _Who is your patron? Why do they help you?_
+- [ ] **At Home in the Trenches**: When you’re at war (-3 faction status), your crew does not suffer -1 hold and PCs still get two downtime activities, instead of just one.
+- [ ] <input type="checkbox"/> **Veteran**: Choose a special ability from another crew.
 
 
 ## Upgrades
@@ -58,24 +73,30 @@ _All of these are people your crew has connections with. Flesh out that connecti
 - [ ] weapons
 ### Training
 - [ ] insight
-- [ ] prowess
+- [x] prowess
 - [ ] resolve
 - [ ] personal
 - [ ] <input type="checkbox"/> <input type="checkbox"/> <input type="checkbox"/> mastery
 ### Cohorts
 _List your [[01 Crew creation#Cohorts|cohorts]] here. Creating a new cohort or adding a type to an existing one costs 2 checks._
 #### Gangs
+##### \<name your gang>
+- **Thugs**
+
 #### Experts
 
 ### Crew Upgrades
->_add upgrades unique to the crew playbook here._
+- [ ] Bruiser rigging (2 free load of weapons or armor)
+- [ ] Work crew contacs (+1 tier while in prison)
+- [ ] Elite Rovers
+- [ ] Elite Thugs
+- [ ] - <input type="checkbox" /> - <input type="checkbox" /> hardened (+1 trauma box)
 
 
 ## Claims
-> _You don't have to stick with the map below, but it's a good start. Copy it and put it next to your playbook, then fill in the empty boxes. _
 
  > Copy the linked claims map for your crew. Highlight boxes green when you've earned a claim.
  
- ![[Claim Map Template.canvas|Claim Map Template]]
+ ![[Bruisers Claims.canvas|Bruisers Claims]]
 
 

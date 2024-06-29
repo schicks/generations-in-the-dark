@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Crew Playbook.md",
+                "file": "Rules/Playbooks/Smugglers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd48fd86e300bf48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Playbooks/Bruisers.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Crew Playbook.md",
+                "file": "Rules/Playbooks/Bruisers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Crew Playbook.md",
+                "file": "Rules/Playbooks/Bruisers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Crew Playbook.md"
+                "file": "Rules/Playbooks/Bruisers.md"
               }
             }
           },
@@ -193,37 +206,38 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "20fcabe46bb7e84d",
+  "active": "bd48fd86e300bf48",
   "lastOpenFiles": [
     "Rules/Playbooks/Smugglers.md",
-    "Templates/Crew Playbook.md",
-    "Rules/01 Basics/16 Advancement.md",
+    "Rules/Playbooks/Bruisers.md",
     "Rules/03 Crew/01 Crew creation.md",
-    "Templates/Claim Map Template.canvas",
     "Rules/Playbooks/Smugglers Claims.canvas",
-    "Rules/Claims/Saloon.md",
-    "Rules/Claims/Storerooms.md",
-    "Rules/Claims/Cover Operation.md",
-    "Rules/Playbooks/Thief.md",
-    "Rules/05 Downtime/03 Heat.md",
-    "Rules/Claims/Secret Routes.md",
+    "Rules/Playbooks/Bruisers Claims.canvas",
+    "Templates/Claim Map Template.canvas",
+    "Hacked Cameras.md",
+    "Gun Runners.md",
     "Rules/Claims/Debris Field.md",
-    "Rules/Claims/Side Business.md",
+    "Private Army.md",
+    "Rules/Claims/Culture of Fear.md",
+    "Rules/Claims/Black Market Connections.md",
     "Rules/Claims/Informants.md",
     "Rules/Claims/Luxury Fence.md",
+    "Rules/Claims/Saloon.md",
+    "Rules/Claims/Side Business.md",
+    "Rules/Claims/Cover Operation.md",
+    "Rules/Playbooks/Thief.md",
+    "Templates/Crew Playbook.md",
+    "Templates/Character Playbook.md",
+    "Setting/Factions/Navigation.md",
+    "BioSynth.md",
+    "Setting/01 The Setting.md",
+    "Rules/01 Basics/16 Advancement.md",
+    "Rules/Claims/Storerooms.md",
+    "Rules/05 Downtime/03 Heat.md",
+    "Rules/Claims/Secret Routes.md",
     "Rules/Claims/Fleet.md",
-    "Rules/Claims/Lair.md",
     "Rules/Claims",
-    "Rules/03 Crew/02 Crew playbook.md",
-    "Rules/05 Downtime/05 Downtime activities.md",
     "Setting/People",
-    "Templates/Player Character.md",
-    "Rules/01 Basics/15 The Faction Game.md",
-    "Rules/01 Basics/14 Coin and Stash.md",
-    "Rules/05 Downtime/02 Payoff.md",
-    "Rules/Table of Contents.md",
-    "Rules/05 Downtime/01 Downtime.md",
-    "README.md",
     "Templates",
     "Setting/Factions",
     "Rules/Playbooks",
