@@ -1,0 +1,3 @@
+The outermost floor of [[Starship Utopia|Utopia]] is a continuous linear park, designed to be a space for all citizens to feel sunlight and breathe fresh air (almost). The scattered dwellings throughout the park were intended to be shared spaces, used briefly and not owned by anyone. However, [[Navigation|Nav]] and [[CADMUS (Collective for the Advancement of Directed Morphogenetic Synthesis)|CADMUS]] have largely divvied up the dwellings as more permanent homes for the most influential families on the ship. 
+
+While there are small areas of the park that are still open to the public, it is now regularly broken up by [[Ship Defense Corps|SDC]] checkpoints to protect the homes of the rich and powerful.

@@ -1,7 +1,7 @@
 - Back on Earth, a small, impossibly rich group obsessed with the possibility of the end of the world start the Generations program; to build a fleet of generation ships.
 - The Northern Alliance "wins" the 4th world war with a preemptive strike, turning a third of the arable land on the planet into glass and slag.
 - Suddenly pressed for time, the Generations program launches their prototype ship, [[Icarus]], well ahead of schedule.
-- [[Damaged Starship]] and [[Flawless Starship]], based on significantly more advanced designs launch nearly in tandem, flying a few hundred miles apart.
+- [[Damaged Starship]] and [[Starship Utopia]], based on significantly more advanced designs launch nearly in tandem, flying a few hundred miles apart.
 - the Generations program is dismantled for reasons (???)
 - Two thirds through the initial burn, as the second generation of travelers is beginning to retire, all communication stops cold
 - as Icarus enters the nebula they send a brief burst of frantic communication about being attacked by [[Ghosts]], then silence. The other two ships start preparing their defenses.
