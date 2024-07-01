@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b85c7112de6e29",
+        "id": "df229e31f721f68f",
         "type": "tabs",
         "children": [
           {
-            "id": "20fcabe46bb7e84d",
+            "id": "742eb865ff464cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Crew Playbook.md",
+                "file": "Rules/Playbooks/Psion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba10115a024513a1",
+            "id": "f64485bee7dc0e97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/03 Crew/01 Crew creation.md",
+                "file": "Rules/Playbooks/Thief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53848231e8544e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/Factions/Navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Crew Playbook.md",
+                "file": "Rules/Playbooks/Psion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Crew Playbook.md",
+                "file": "Rules/Playbooks/Psion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Crew Playbook.md"
+                "file": "Rules/Playbooks/Psion.md"
               }
             }
           },
@@ -190,47 +201,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20fcabe46bb7e84d",
+  "active": "742eb865ff464cf3",
   "lastOpenFiles": [
-    "Rules/Playbooks/Smugglers.md",
-    "Templates/Crew Playbook.md",
-    "Rules/01 Basics/16 Advancement.md",
-    "Rules/03 Crew/01 Crew creation.md",
-    "Templates/Claim Map Template.canvas",
-    "Rules/Playbooks/Smugglers Claims.canvas",
-    "Rules/Claims/Saloon.md",
-    "Rules/Claims/Storerooms.md",
-    "Rules/Claims/Cover Operation.md",
     "Rules/Playbooks/Thief.md",
-    "Rules/05 Downtime/03 Heat.md",
-    "Rules/Claims/Secret Routes.md",
-    "Rules/Claims/Debris Field.md",
+    "Rules/Playbooks/Psion.md",
+    "Setting/Factions/Navigation.md",
+    "Rules/02 Characters/02 Character creation.md",
+    "Rules/01 Basics/01 The Basics.md",
+    "Setting/Factions/The Coven.md",
+    "Setting/Factions/CADMUS (Collective for the Advancement of Directed Morphogenetic Synthesis).md",
+    "Setting/Factions/Ship Defense Corps.md",
+    "Setting/Places/Starship Utopia/Starship Utopia.md",
+    "Setting/Places/Starship Utopia/Launch Ring.md",
+    "Setting/Places/Starship Utopia/Drive Tower.md",
+    "Setting/Places/Starship Utopia/Garden District.md",
+    "Excalidraw/Utopia.excalidraw.md",
+    "Excalidraw",
+    "Templates/Crew Playbook.md",
+    "Templates/Claim Map Template.canvas",
+    "Rules/Playbooks/Smugglers.md",
+    "Rules/Playbooks/Smugglers Claims.canvas",
+    "Rules/Claims/Storerooms.md",
     "Rules/Claims/Side Business.md",
-    "Rules/Claims/Informants.md",
+    "Rules/Claims/Secret Routes.md",
+    "Rules/Claims/Saloon.md",
     "Rules/Claims/Luxury Fence.md",
-    "Rules/Claims/Fleet.md",
     "Rules/Claims/Lair.md",
+    "Rules/Claims/Informants.md",
+    "Rules/Claims/Debris Field.md",
+    "Rules/Claims/Cover Operation.md",
+    "Rules/Claims/Fleet.md",
     "Rules/Claims",
-    "Rules/03 Crew/02 Crew playbook.md",
-    "Rules/05 Downtime/05 Downtime activities.md",
+    "Setting/Places/Starship Utopia",
+    "Setting/Places",
+    "Rules/03 Crew/01 Crew creation.md",
+    "Rules/Playbooks/Bruisers Claims.canvas",
     "Setting/People",
-    "Templates/Player Character.md",
-    "Rules/01 Basics/15 The Faction Game.md",
-    "Rules/01 Basics/14 Coin and Stash.md",
-    "Rules/05 Downtime/02 Payoff.md",
-    "Rules/Table of Contents.md",
-    "Rules/05 Downtime/01 Downtime.md",
-    "README.md",
     "Templates",
     "Setting/Factions",
     "Rules/Playbooks",
     "Setting",
-    "Rules",
-    "Rules/05 Downtime",
-    "Rules/04 Score",
-    "Rules/03 Crew"
+    "Rules"
   ]
 }

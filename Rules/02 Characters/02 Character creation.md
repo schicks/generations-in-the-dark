@@ -23,6 +23,8 @@ Your character's **background** describes what they did before they joined the c
 
 Your playbook begins with three action dots already placed. You get to add four more dots (so you'll have seven total). At the start of the game, no action rating may have more than two dots (unless a special ability tells you otherwise). Assign your four dots like this:
 
+* Put two dots in an action core to your playbook.
+* Put one dot in an action secondary to your playbook.
 * Put one dot in any action that you feel reflects your character's **heritage**.
 * Put one dot in any action that you feel reflects your character's **background**.
 * Assign two more dots anywhere you please (max rating is 2, remember).
