@@ -1,0 +1,1 @@
++2 **capital** for assault or extortion

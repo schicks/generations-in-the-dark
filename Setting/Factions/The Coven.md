@@ -5,7 +5,7 @@ allies:
 enemies:
   - "[[Ship Defense Corps]]"
   - Intership Council
-demonym: coven
+demonym: granny
 aliases:
   - Coalition for Biomorphological Equality
 ---
@@ -22,7 +22,7 @@ They have small encampments in various parts of the ship but the largest by far 
 
 [[Ursula]] - Youthful escaped test subject whom found a home amongst those who helped her get by with the side effects of brutal mind research. Afflicted with [[Psychogenic Encephalopathy]] which gives light psionic ability but is experiencing a deteriorating psychosis.
 
-[[Bones]] A scrapper who among them knows who pays the best for biological scrap
+[[Bones]] - A scrapper who among them knows who pays the best for biological scrap
 ## Notable Assets
 A cache of weapons and resources, a nearly clean med-bay, and a bio bomb
 ## Situation

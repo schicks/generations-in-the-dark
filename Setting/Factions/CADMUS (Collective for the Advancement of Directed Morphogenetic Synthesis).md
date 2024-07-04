@@ -7,7 +7,7 @@ allies:
   - Scrappers
 enemies:
   - "[[The Coven]]"
-demonym: cadmus
+demonym: doctor
 aliases:
   - CADMUS
 ---

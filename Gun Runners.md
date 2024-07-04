@@ -1,0 +1,1 @@
+No heat for using firearms during a score

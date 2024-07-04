@@ -1,11 +1,12 @@
 > _**\<bold text in angle brackets>** or callout boxes with italics are directions for creating a playbook. Callout boxes without stay in the created playbook, and are directions for creating a crew._
 
-
+#playbook/crew
 > Copy this playbook to create a playable crew, then link back to the original. Follow the directions in [[01 Crew creation]] to get started.
 
 ## Crew Stats
 
 ### reputation
+### lair
 
 ### trackers
 
