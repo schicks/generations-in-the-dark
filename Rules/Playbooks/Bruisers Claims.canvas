@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"2c64787d2a4a15d7","type":"file","file":"Hacked Cameras.md","x":-1680,"y":-93,"width":410,"height":137},
+		{"id":"2c64787d2a4a15d7","type":"file","file":"Rules/Claims/Hacked Cameras.md","x":-1680,"y":-93,"width":410,"height":137},
 		{"id":"81150382aa2c3f80","type":"file","file":"Rules/Claims/Culture of Fear.md","x":-742,"y":93,"width":410,"height":137},
 		{"id":"5801d11a0624f925","type":"file","file":"Rules/Claims/Black Market Connections.md","x":-742,"y":-280,"width":410,"height":137},
 		{"id":"24be2c5c0d3b1b7c","type":"file","file":"Rules/Claims/Lair.md","x":-742,"y":-93,"width":410,"height":137,"color":"4"},
@@ -11,10 +11,10 @@
 		{"id":"ba3ad1aea1797beb","type":"file","file":"Rules/Claims/Side Business.md","x":-1206,"y":93,"width":410,"height":137},
 		{"id":"211a5979eac78d79","type":"file","file":"Rules/Claims/Side Business.md","x":215,"y":-280,"width":410,"height":137},
 		{"id":"d6a402c551c8746c","type":"file","file":"Rules/Claims/Storerooms.md","x":215,"y":-93,"width":410,"height":137},
-		{"id":"b86f2ce39be04a59","type":"file","file":"Private Army.md","x":-259,"y":93,"width":410,"height":137},
+		{"id":"b86f2ce39be04a59","type":"file","file":"Rules/Claims/Private Army.md","x":-259,"y":93,"width":410,"height":137},
 		{"id":"cccd03d43cbee456","type":"file","file":"Rules/Claims/Informants.md","x":-1680,"y":93,"width":410,"height":137},
 		{"id":"c1c026a258329cf3","type":"file","file":"Rules/Claims/Cover Operation.md","x":-259,"y":-280,"width":410,"height":137},
-		{"id":"70396b7f41898f3a","type":"file","file":"Gun Runners.md","x":-1680,"y":-280,"width":410,"height":137}
+		{"id":"70396b7f41898f3a","type":"file","file":"Rules/Claims/Gun Runners.md","x":-1680,"y":-280,"width":410,"height":137}
 	],
 	"edges":[
 		{"id":"7c71865b14c5ebdc","fromNode":"db977a180c2b50e1","fromSide":"right","toNode":"24be2c5c0d3b1b7c","toSide":"left","toEnd":"none"},
