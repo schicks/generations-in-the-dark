@@ -31,6 +31,6 @@ Max doesn't believe that will go anywhere, and is using it as cover (without Ant
 
 `clock 3/4` Spacers strike stops all SDC intership traffic
 
-`clock 3/7` [[Ship Defense Corps|SDC]] begins assault to control the launch ring
+`clock 4 / 7` [[Ship Defense Corps|SDC]] begins assault to control the launch ring
 
-`clock 1/7` Spacers sabotage the [[Drive Tower]] to prevent the [[Decel Burn]]
+`clock 0 / 7` Spacers sabotage the [[Drive Tower]] to prevent the [[Decel Burn]]

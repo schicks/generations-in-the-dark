@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "f6086ead696e6a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "230187ce084d53af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d0b79d3047711b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/People/Astrea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5b6becbe0f65b65",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f50b841590d4a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc7fa9d25b80621",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d94a4134b68fdef4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04a55c71efb06ec6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69a761e1b4ff9c6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de19fdda694ec960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd2476615d21161",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setting/People/Astrea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd7413833c11c20a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setting/People/Astrea.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63ff17ac75c872b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "509bd94b831e386e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setting/People/Astrea.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26d0b79d3047711b",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Setting/People/Dr. Elmo Fisher.md",
+    "Setting/People/Astrea.md",
+    "Setting/Factions/CADMUS (Collective for the Advancement of Directed Morphogenetic Synthesis).md",
+    "Setting/Factions/The Coven.md",
+    "README.md",
+    "LICENSE.md",
+    "Civil Aptitude Test.md",
+    "Alexa.md",
+    "A voice on the radio.md",
+    "Setting/People/Laramie.md",
+    "Setting/People/Ked.md",
+    "Templates/Crew Playbook.md",
+    "Rules/02 Characters/02 Character creation.md",
+    "Rules/Playbooks/Psion.md",
+    "Rules/02 Characters/03 Character playbook.md",
+    "Setting/People/Astrea (Carolina Hubbard's conflicted copy 2024-07-17).md",
+    "Union.md",
+    "Scrappers.md",
+    "Scully.md",
+    "Setting/Scores/Going Up.md",
+    "Setting/Factions/Union.md",
+    "Setting/Factions/Spacers Union.md",
+    "Rules/Claims/Private Army.md",
+    "Rules/Claims/Gun Runners.md",
+    "Rules/Claims/Hacked Cameras.md",
+    "Setting/Scores",
+    "Templates/Claim Map Template.canvas"
+  ]
+}

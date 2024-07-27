@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "fc1e265533a413b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb503d74c7b656b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701e9bf38faa09f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/People/Laramie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9842681ab1c36241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting/People/Ked.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c1089be829081e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/05 Downtime/05 Downtime activities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d200dcbc613c5e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fishers price.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d6ede4de5d424a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/01 Basics/16 Advancement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21a218888babf322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/04 Score/03 Teamwork.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b24b5039cb0d79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/02 Characters/02 Character creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10b7d7b9387a56b1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Utopia.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "dbdacba93e2707f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/01 Basics/09 Consequences and Harm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "683db12c9908a79a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f6fd61a27cec69d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b4e0cd3e4a75b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79ee3d20c6bd781a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "resistance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7669e73726530f01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3341aa276180f6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "67d499648c7836de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42039212f58fce30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rules/05 Downtime/05 Downtime activities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18b006bbb55354fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rules/05 Downtime/05 Downtime activities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4788e36095149c98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb059a3c3c1887a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rules/05 Downtime/05 Downtime activities.md"
+              }
+            }
+          },
+          {
+            "id": "d054046b059110e2",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a692baf59131758",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "73b18fab92c1e29d",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6c1089be829081e3",
+  "lastOpenFiles": [
+    "Setting/People/Laramie.md",
+    "Setting/People/Ked.md",
+    "Rules/01 Basics/09 Consequences and Harm.md",
+    "Rules/01 Basics/11 Resistance and Armor.md",
+    "Setting/Factions/Spacers Union.md",
+    "Setting/01 The Setting.md",
+    "Setting/02 Timeline.md",
+    "Templates/Player Character.md",
+    "Templates/Faction.md",
+    "Templates/Crew Playbook.md",
+    "Templates/Character Playbook.md",
+    "Templates/Claim Map Template.canvas",
+    "Templates/Score.md",
+    "Scully.md",
+    "Union.md",
+    "A voice on the radio.md",
+    "Alexa.md",
+    "Civil Aptitude Test.md",
+    "fishers price.md",
+    "ghost dust.md",
+    "Pasted image 20240717215718.png",
+    "Pasted image 20240717220131.png",
+    "Rules/04 Score/02 Planning & engagement.md",
+    "Rules/Playbooks/Agent.md",
+    "Psychogenic Encephalopathy.md",
+    "Rules/05 Downtime/05 Downtime activities.md",
+    "Rules/04 Score/03 Teamwork.md",
+    "Rules/01 Basics/16 Advancement.md",
+    "Setting/People/Dr. Elmo Fisher.md",
+    "Setting/Scores",
+    "desktop.ini"
+  ]
+}
